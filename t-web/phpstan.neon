@@ -1,0 +1,9 @@
+parameters:
+    scanFiles:
+    scanDirectories:
+    paths:
+        - app
+    level: 9
+    excludePaths:
+        - app/Providers/*
+    ignoreErrors:
